@@ -6,7 +6,7 @@ body {
     color: #333;
     background-image: url('https://wallpaper.forfun.com/fetch/4a/4a63e3d12400a116fc164f891b18063e.jpeg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
-    background-repeat: repeat; /* Evita que a imagem se repita */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
     background-position: center; /* Centraliza a imagem no fundo */
 }
 
@@ -58,6 +58,7 @@ p {
     font-size: 1.2em;
     line-height: 1.6;
 }
+
 .icon {
     width: 20px; /* Ajusta o tamanho do ícone */
     height: 20px; /* Ajusta o tamanho do ícone */
